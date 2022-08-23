@@ -7,3 +7,4 @@ elif number == 0:
     print(f"{number:d} is zero")  # number is zero
 else:
     print(f"{number:d} is negative")  # number is negative
+    
