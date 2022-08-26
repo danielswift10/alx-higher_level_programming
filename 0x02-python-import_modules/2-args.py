@@ -9,6 +9,5 @@ if __name__ == "__main__":
         print("{} argument:".format(last_element))
     else:
         print("{} arguments:".format(last_element))
-
-   for i in range(last_element):
+    for i in range(last_element):
         print("{}: {}".format(i + 1, sys.argv[i + 1]))
