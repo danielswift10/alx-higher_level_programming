@@ -15,4 +15,4 @@ class Square:
         """
         initializes the square
         """
-        self.__size = 
+        self.__size = size
